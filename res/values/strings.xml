@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApplicationLock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">退出</string>
+    <string name="system_app">系统软件</string>
+    <string name="user_app">应用软件</string>
+    <string name="phone_save">手机存储</string>
+    <string name="outside_save">外部存储</string>
+    <string name="set_psd">请设置密码！</string>
+     <string name="no_length">密码长度至少4位！</string>
+     <string name="set_psd_again">请再次绘制密码！</string>
+     <string name="set_psd_success">密码设置成功！</string>
+     <string name="difference_psd">两次密码不一致！</string>
+     <string name="unlock_psd">请绘制解锁密码！</string>
+     <string name="psd_error">密码错误！</string>
+     <string name="psd_success">解锁成功！</string>
+    
+
+</resources>

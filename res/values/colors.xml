@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="dialog_tv_color">#339BB9</color>
+    <color name="tab_title_pressed_color">#2F98DA</color>
+    <color name="tab_middle_line_color">#5c882c</color>
+    <color name="tab_title_normal_color">#262726</color>
+    <color name="black">#000000</color>
+    <color name="bac">#55000000</color>
+     <color name="blue_light">#ff33b5e5</color>
+     <color name="gesture_psd_bg_color">#333366</color>
+
+</resources>
